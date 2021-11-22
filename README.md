@@ -6,8 +6,8 @@ We have been providing W. Avy, a potential investor, with weather analysis data 
 
 ## Results
 https://github.com/rharazim/surfs_up/blob/main/Resources/june_results.png
-- The average temperature for June is about 75 degrees Fahrenheit, which is perfect surfing weather, and the highest temperature recorded was 85 degrees, which would be great weather to sell ice cream.
 https://github.com/rharazim/surfs_up/blob/main/Resources/december_results.png
+- The average temperature for June is about 75 degrees Fahrenheit, which is perfect surfing weather, and the highest temperature recorded was 85 degrees, which would be great weather to sell ice cream.
 - December was a little colder with the average temperature being around 71 degrees and the lowest recorded temperature being 56. Surfing and ice cream are both still possible with this weather, especially if the sky is clear and the sun is out.
 - With these extreme months still being viable for our surf and ice cream business, it also tells us that all months inbetween will also be great for our business.
 
